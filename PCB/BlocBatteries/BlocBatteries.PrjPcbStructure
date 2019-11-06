@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=BatteryPack.SchDoc|Designator=Analog Front End|SchDesignator=Analog Front End|FileName=AFE.SchDoc|SymbolType=Normal|RawFileName=AFE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BatteryPack.SchDoc|Designator=Charger|SchDesignator=Charger|FileName=Charger.SchDoc|SymbolType=Normal|RawFileName=Charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BatteryPack.SchDoc|Designator=Controller|SchDesignator=Controller|FileName=Controller.SchDoc|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BatteryPack.SchDoc|Designator=Li-ion Cells|SchDesignator=Li-ion Cells|FileName=Cells.SchDoc|SymbolType=Normal|RawFileName=Cells.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=BatteryPack.SchDoc

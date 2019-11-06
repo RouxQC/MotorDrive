@@ -1,0 +1,58 @@
+3V3d max power consumption
+
+LD3985: 150 mA
+
+STM32:      30mA 100mW
+nRF:        10mA 133mW
+ISO1540:     3mA  10mW
+MPU-6050:    4mA  13mW
+BAV99:             2uW
+31FL3199:    3mA  10mW
+opto(x12): 3.5mA  12mW
+LED:	    10mA 133mW
+Total:     100mA 550mW
+______________________________________
+
+5Vd max power consumption
+
+R-78E5.0-0.5: 500 mA, 220uF 82-92% efficiency
+
+LD3985: 100mA 533mW + 1.25mW
+LED x9: 10mA  50mW
+LED:    13mA
+opto:  3.5mA  12mW
+
+Total:  200mA 600mW
+______________________________________
+
+
+5Va max power consumption
+
+INA219:        1mA
+ISO1540:       3mA
+LED: 	      13mA
+opto(x3):     11mA
+encoder(x4):  10mA 
+LB11920(x4):  13mA 
+Kicker:       10mA
+ 
+Total:        60mA
+______________________________________
+
+Vbatt max power consumption
+
+LB11920(x4):  600mA  3W
+Dribbler:     500mA  max 14W
+R-78E5.0-0.5: 200mA
+Moteur(x4):     2A
+Chargeur:       
+5Va:          60mA
+
+______________________________________
+Optoisolateurs
+
+1 enable
+3 kicker
+2 motors (x4)
+1 dribbleur
+

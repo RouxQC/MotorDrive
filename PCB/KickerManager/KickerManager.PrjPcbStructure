@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=KickerManager.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=KickerManager.SchDoc|Designator=KickTrigger|SchDesignator=KickTrigger|FileName=KickTrigger.SchDoc|SymbolType=Normal|RawFileName=KickTrigger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=KickerManager.SchDoc|Designator=ProtectionLED|SchDesignator=ProtectionLED|FileName=ProtectionLED.SchDoc|SymbolType=Normal|RawFileName=ProtectionLED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=KickerManager.SchDoc|Designator=PWRBankCharger|SchDesignator=PWRBankCharger|FileName=PWRBankCharger.SchDoc|SymbolType=Normal|RawFileName=PWRBankCharger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
